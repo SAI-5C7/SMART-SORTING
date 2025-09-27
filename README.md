@@ -1,1 +1,1 @@
-# SMART-SORTING
+# Smart-sorting
